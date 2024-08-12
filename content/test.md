@@ -6,6 +6,11 @@ Check 123
 
 ![bopbox.png](/bopbox.png)
 
-::button-link{external="_blank" href="http://www.google.com"}
+::button-link
+---
+external: 'true'
+href: http://www.google.com
+icon: heroicons:academic-cap
+---
 Button Component
 ::
