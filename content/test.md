@@ -1,4 +1,6 @@
-# This is my new page that I'm creating :)
+# Page 1
+
+# Check out my new page \:D
 
 Check 123
 
