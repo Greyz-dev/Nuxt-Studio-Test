@@ -8,7 +8,7 @@ Check 123
 
 ::button-link
 ---
-external: 'true'
+external: 'True'
 href: http://www.google.com
 icon: heroicons:academic-cap
 ---
